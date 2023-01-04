@@ -7,7 +7,7 @@ nav{
     display: flex;
     justify-content: space-between;
     line-height: 61px;
-    margin: 0 200px;
+    margin: 0 45px;
     padding:20px 20px;
 }
 nav ul{
@@ -36,4 +36,26 @@ nav h2{
     color: white;
     border: none;
     border-radius: 5px;
+    margin-right: 30px;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 60px;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 85px;
+}
+.banner-subtitle{
+    font-weight: 600;
+    font-size: 45px;
+}
+.p-text{
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+padding-bottom: 30px;
 }
