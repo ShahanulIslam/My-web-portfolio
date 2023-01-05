@@ -207,6 +207,7 @@ main{
 }
 .message input,textarea{
     margin-top: 10px;
+    border: 0;
 }
 .message input{
     width: 100%;
